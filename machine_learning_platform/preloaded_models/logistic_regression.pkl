@@ -1,1 +1,0 @@
-# This would be a pre-trained logistic regression model saved using joblib 
